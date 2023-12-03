@@ -1,0 +1,23 @@
+
+/* .container {
+    width: 60%;
+} */
+/* *{
+    border: 1px solid red;
+} */
+
+.experience{
+    text-align: center;
+}
+
+h2{
+    width: 208px;
+    height: 30px;
+    /* opacity: 50%; */
+    color: #99a3a3;
+}
+
+.exp-icon{
+    width: 42px;
+    height: 42px;
+}

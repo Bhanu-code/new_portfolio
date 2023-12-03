@@ -1,0 +1,64 @@
+/* *{
+    border: 2px solid red;
+} */
+
+
+.hero {
+    margin-top: 3rem;
+    text-align: center;
+    height: 100vh;
+    width: 60%;
+
+}
+
+img {
+    width: 251px;
+    height: 223px;
+    border-radius: 50%;
+}
+
+.intro {
+    width: 671px;
+    height: 140px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 4rem;
+    background-image: linear-gradient(#e66465, #9198e5);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.about {
+    width: 679px;
+    height: 108px;
+    text-align: center;
+    /* margin-top: 1rem;
+    margin-bottom: 1rem; */
+}
+
+.buttons {
+    width: 417px;
+    height: 64px;
+    text-align: center;
+    
+}
+
+button {
+    border-radius: 5rem;
+    width: 140px;
+    height: 50px;
+}
+
+.contact-btn {
+    background-color: white;
+    color: black;
+}
+
+.resume-btn {
+    border: 1px solid white;
+    color: white;
+    :hover{
+        border: 1px solid red;
+    }
+}

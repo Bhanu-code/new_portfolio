@@ -1,0 +1,16 @@
+.social-icons > img{
+    width: 25px;
+    height: 25px;
+}
+
+.social-icons {
+    :hover{
+        transform: scale(1.2);
+    }
+}
+
+.copyright{
+    background-image: linear-gradient(#e66465, #9198e5);
+    -webkit-background-clip: text;
+    color: transparent;
+}
